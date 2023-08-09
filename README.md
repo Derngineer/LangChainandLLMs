@@ -6,3 +6,10 @@ To pass farmer based data and custom recommendations that are context bound to t
 Supply with 300 + pages pdf on soil information and best practices to make recommendations a lot more legitimate
 Return data in web friendly format, for custom display, return recommendations in JSON format
 
+#METHOD
+Using langchain technology to access OpenAI'
+Use langchain to create prompts
+Use langchain to load, vectorise pdfs 
+Feed pdfs as context
+extend prompts with values that corresponds to soil figures
+get recommendation as question
