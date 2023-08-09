@@ -1,4 +1,4 @@
-# LangChainandLLMs
+# LangChain and LLMs👌
 Feed values, pdfs , to create agricultural recommendations using open ai chat model
 
 #OBJECTIVE
