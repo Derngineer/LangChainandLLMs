@@ -1,4 +1,4 @@
-# LangChain and LLMs👌
+# Using LangChain and LLMs to provide prompt context for better results from (GPT models)👌
 Feed values, pdfs , to create agricultural recommendations using open ai chat model
 
 #OBJECTIVE
